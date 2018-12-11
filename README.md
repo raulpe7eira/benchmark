@@ -9,7 +9,7 @@ Project to compare libs.
 ./gradlew jmh
 ```
 
-Benchmark result is saved to build/reports/jmh/results.txt.
+Benchmark result is saved to `build/reports/jmh/results.txt`.
 
 ## ULID Benchmark
 
