@@ -1,4 +1,4 @@
-package benchmark.ulid
+package benchmark
 
 import org.openjdk.jmh.annotations.Benchmark
 import org.openjdk.jmh.annotations.BenchmarkMode
